@@ -9,7 +9,7 @@
   "NFT_NAME": "goblinmosquitostown.wtf",
   "SYMBOL": "mosquitos",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 000000000000000,
+  "WEI_COST": 3000000000000000,
   "DISPLAY_COST": 0.003,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
