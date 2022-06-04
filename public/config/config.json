@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9765b01B54152EFD575880b60a8676b98Ca570BC",
+  "SCAN_LINK": "https://etherscan.io/token/0x9765b01b54152efd575880b60a8676b98ca570bc",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "goblinmosquitostown.wtf",
+  "SYMBOL": "mosquitos",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/goblinmosquitostown-wtf",
+  "SHOW_BACKGROUND": true
+}
